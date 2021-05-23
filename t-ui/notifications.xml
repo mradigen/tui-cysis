@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTIFICATIONS>
+<show_notifications value="false"/>
+<app_notification_enabled_default value="true"/>
+<default_notification_color value="#ffff98"/>
+<notification_format value="%[100][teal]title says: %n %text"/>
+<click_notification value="true"/>
+<long_click_notification value="true"/>
+<notification_popup_exclude_app value="true"/>
+<notification_popup_exclude_notification value="true"/>
+<notification_popup_reply value="true"/>
+<com.whatsapp enabled="true"/>
+<filter id="-1" value="null says: %n null"/>
+<org.schabi.newpipe enabled="false"/>
+<filter id="-1" value="null says: %n null"/>
+<com.android.systemui enabled="false"/>
+</NOTIFICATIONS>

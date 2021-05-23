@@ -1,0 +1,33 @@
+=echo "Hey, don't worry, it's alright. Just give it another try, you never know you might succeed!"
+
+aur=Aurora Store
+apt=Aptoide
+
+cls=clear
+voc=search -u http://learnersdictionary.com/definition/%
+mp=music -play
+mn=music -next
+mb=music -previous
+
+/=search %
+
+c=config %
+d=Discord
+g=Gallery
+i=Instagram
+n=notes %
+r=restart
+s=Settings
+t=Termux
+v=Vivaldi
+yt=NewPipe
+z=ZArchiver
+
+# Just some weird convo aliases
+Hey=echo "Ooh hi! Wassup?"
+Thx=echo "I'm here for you bro <3"
+Thanks=echo "Anytime 'mate!"
+<3=echo "<3 <3 <3"
+Wassup?=echo "Nothin' much bro, just chillin'\nWhat 'bout ya ADIGEN?"
+sup=echo "Just cleaning up my system :D"
+Ah=echo "Ooh that's interesting! So what did you have to do on your phone? Get back to work!"
